@@ -1,6 +1,6 @@
 # Do the alcohol consumption habits of a country influence its beer reviews?
 
-___ A geographical study on the link between drinking habits and their influence on online beer reviews
+A geographical study on the link between drinking habits and their influence on online beer reviews
 
 ## Abstract 
 
@@ -37,7 +37,7 @@ To study the semantic of the comments we use the following lists of words:
 * Positive words: *"https://ptrckprry.com/course/ssd/data/positive-words.txt"*
 * Negative words: *"https://ptrckprry.com/course/ssd/data/negative-words.txt"*
 
-Our proprocessed datasets can be found here:
+Our preprocessed datasets can be found here:
 *https://drive.google.com/drive/folders/1wTLd3ihuJyaspmlKB2DAXekbt8QjK5me?usp=sharing*
 
 ## Methods
