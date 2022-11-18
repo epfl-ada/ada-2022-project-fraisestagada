@@ -42,25 +42,25 @@ Our proprocessed datasets can be found here:
 
 ## Methods
 
-**Key word detection**: pretrained NLP algorithm KeyBERT
-**Language detection**: use langdetect library translation: from deep_translator library, use GoogleTranslator
-**Beer clustering**: data augmentation, k-means clustering, SVM clustering
+- **Key word detection**: pretrained NLP algorithm KeyBERT
+- **Language detection**: use langdetect library translation: from deep_translator library, use GoogleTranslator
+- **Beer clustering**: data augmentation, k-means clustering, SVM clustering
 
 ## Proposed timeline
 
-**Week 10**: Finishing the translation and key-words highlighting for the whole datasets. Take into account the feed-back received and
+- **Week 10**: Finishing the translation and key-words highlighting for the whole datasets. Take into account the feed-back received and
 finetuning the clustering to have relevant beer types
-**Week 11**: Doing the website skeleton + already have an introduction of our data story on our website
-**Week 12**: Finishing the analysis of the review and grading section
-**Week 13**: Finding and creating the best visualisation approaches
-**Week 14**: Finalizing the redaction of the datastory on the website
+- **Week 11**: Doing the website skeleton + already have an introduction of our data story on our website
+- **Week 12**: Finishing the analysis of the review and grading section
+- **Week 13**: Finding and creating the best visualisation approaches
+- **Week 14**: Finalizing the redaction of the datastory on the website
 
 ## Organization within the team
 
-**Teammate 1** = Clustering for grading analysis + helping for the website
-**Teammate 2** = Creating website
-**Teammate 3** = Finishing translation and key-words highlighting  + Comment analysis
-**Teammate 4** = Comment analysis + Grading analysis
+- **Teammate 1** = Clustering for grading analysis + helping for the website
+- **Teammate 2** = Creating website
+- **Teammate 3** = Finishing translation and key-words highlighting  + Comment analysis
+- **Teammate 4** = Comment analysis + Grading analysis
 
 ## Questions for the TAs
 
