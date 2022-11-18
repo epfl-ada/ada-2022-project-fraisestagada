@@ -68,10 +68,8 @@ finetuning the clustering to have relevant beer types
 - **Question 2**: Is it feasible to detect formal language words occurence in comments, and it is interesting?
 - **Question 3**: Enjoy our homemade video from section 1) II) b)! Sit back and relax!
 
-<center>
-<video width="520" height="350" controls>
-  <source src="video_visualisation.mp4" type="video/mp4">
-</video>
-</center>
+
+https://user-images.githubusercontent.com/91135493/202773601-875aa211-31d6-4631-b72f-4768caa5c8a4.mp4
+
 
 
