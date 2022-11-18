@@ -64,9 +64,9 @@ finetuning the clustering to have relevant beer types
 
 ## Questions for the TAs
 
-**Question 1**: Is it beneficial to remove users who have a high amount of reviews(e.g. 5 reviews a day for 20 years)? Or is there an explanation?
-**Question 2**: Is it feasible to detect formal language words occurence in comments, and it is interesting?
-**Question 3**: Enjoy our homemade video from section 1) II) b)! Sit back and relax!
+- **Question 1**: Is it beneficial to remove users who have a high amount of reviews(e.g. 5 reviews a day for 20 years)? Or is there an explanation?
+- **Question 2**: Is it feasible to detect formal language words occurence in comments, and it is interesting?
+- **Question 3**: Enjoy our homemade video from section 1) II) b)! Sit back and relax!
 
 <center>
 <video width="520" height="350" controls>
