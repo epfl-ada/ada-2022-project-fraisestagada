@@ -1,8 +1,5 @@
 # ADA DATA STORY
 
-<<<<<<< HEAD
-[View Data Story](https://constig.github.io/beer-data-story/)
-=======
 ___ A geographical study on the link between drinking habits and their influence on online beer reviews
 
 ## Project data story
@@ -66,4 +63,4 @@ Conducting analyses on 70 different beer types was to large. Grouping the beers 
 **Teammate 2** = Creating website  
 **Teammate 3** = Finishing translation and key-words highlighting  + Comment analysis 
 **Teammate 4** = Comment analysis + Grading analysis  
->>>>>>> 7f4efdd9e6f74a4fe84a56895982e225402bfb56
+
